@@ -1,0 +1,12 @@
+BACIA BALSA_DO_CANTU
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+0.55 6 0.69 0.85 1.09
+--
+Validacao
+nash cor rsme
+0.29 0.9 1.85
+--

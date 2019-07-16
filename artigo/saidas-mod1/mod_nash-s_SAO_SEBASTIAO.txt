@@ -1,0 +1,12 @@
+BACIA SAO_SEBASTIAO
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.5 233 -0.11 0.11 2.45
+--
+Validacao
+nash cor rsme
+-12.49 0.47 5.27
+--

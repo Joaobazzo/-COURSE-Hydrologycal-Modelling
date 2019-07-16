@@ -1,0 +1,12 @@
+BACIA TEREZA_CRISTINA
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.6 233 -0.16 0.06 1.77
+--
+Validacao
+nash cor rsme
+-4.63 0.46 5.09
+--

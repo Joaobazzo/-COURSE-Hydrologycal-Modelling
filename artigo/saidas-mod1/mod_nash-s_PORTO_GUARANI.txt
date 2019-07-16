@@ -1,0 +1,12 @@
+BACIA PORTO_GUARANI
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.6 245 -0.19 0 2.33
+--
+Validacao
+nash cor rsme
+-4.28 0.49 5.57
+--

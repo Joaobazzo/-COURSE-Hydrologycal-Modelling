@@ -1,0 +1,12 @@
+BACIA SALTO_SAPUCAI
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.6 245 -0.37 0 1.73
+--
+Validacao
+nash cor rsme
+-11.41 0.63 5.14
+--

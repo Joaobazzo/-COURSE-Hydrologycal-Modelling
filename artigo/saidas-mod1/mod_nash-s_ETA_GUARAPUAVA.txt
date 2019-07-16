@@ -1,0 +1,12 @@
+BACIA ETA_GUARAPUAVA
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.5 227 -0.1 0.18 1.91
+--
+Validacao
+nash cor rsme
+-2.87 0.55 4.16
+--

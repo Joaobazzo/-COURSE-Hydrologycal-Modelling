@@ -1,0 +1,12 @@
+BACIA PORTO_CARRIEL
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.6 248 -0.18 0 2.39
+--
+Validacao
+nash cor rsme
+-4.32 0.48 5.65
+--

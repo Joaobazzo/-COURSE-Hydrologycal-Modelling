@@ -1,0 +1,12 @@
+BACIA PONTE_LEONCIO_PRIMO
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+0.55 8 0.58 0.8 1.96
+--
+Validacao
+nash cor rsme
+0.44 0.69 2.29
+--

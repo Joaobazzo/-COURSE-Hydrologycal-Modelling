@@ -1,0 +1,12 @@
+BACIA PORTO_SANTO_ANTONIO
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.6 248 -0.15 0.02 2.55
+--
+Validacao
+nash cor rsme
+-12.11 0.42 6.29
+--

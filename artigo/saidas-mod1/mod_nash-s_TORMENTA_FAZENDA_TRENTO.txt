@@ -1,0 +1,12 @@
+BACIA TORMENTA_FAZENDA_TRENTO
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.5 227 -0.14 0.05 2.72
+--
+Validacao
+nash cor rsme
+-10.28 0.48 4.83
+--

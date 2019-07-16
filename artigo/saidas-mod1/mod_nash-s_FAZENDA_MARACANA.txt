@@ -1,0 +1,12 @@
+BACIA FAZENDA_MARACANA
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.4 185 -0.06 0.18 2.07
+--
+Validacao
+nash cor rsme
+-0.74 0.64 3.09
+--

@@ -1,0 +1,12 @@
+BACIA RIO_DOS_PATOS
+Treino 80%
+Validacao 20%
+-----
+Calibracao
+c sc nash cor rsme
+-0.5 233 -0.09 0.12 2.04
+--
+Validacao
+nash cor rsme
+-1.66 0.48 4.58
+--
